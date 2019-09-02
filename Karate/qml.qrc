@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Score.qml</file>
+        <file>Control.qml</file>
+        <file>buzzer.wav</file>
+        <file>ExternalScreen.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="buzzer.wav">buzzer.wav</file>
+    </qresource>
+</RCC>
